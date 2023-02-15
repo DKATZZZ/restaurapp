@@ -1,0 +1,53 @@
+{
+    "restaurent":[
+        {"id":1,
+        "name":"Json-Resto",
+        "address":"H.No 12/B/1 Sultan Street Delhi",
+        "country":"India",
+        "city":"Delhi",
+        "phone":"+919976557120"
+    },
+    {
+        "id":2,
+        "name":"Billa",
+        "address":"streen 2 Antony Villa California",
+        "country":"USA",
+        "city":"california",
+        "phone":"+1229088761236"
+    },
+    {
+        "id":3,
+        "name":"Rohan",
+        "address":"H No 103/C/2 Anhoni Villa",
+        "country":"India",
+        "city":"Noida",
+        "phone":"+918099459701"
+    },
+    {
+        "id":4,
+        "name":"Maria",
+        "address":"Plot No 32 H.No 1/B/100 Street 2 Vidyanager",
+        "country":"India",
+        "city":"Hubli",
+        "phone":"+917702987654"
+
+    },
+    {
+        "id":5,
+        "name":"Raja Rao Karpade",
+        "address":"H No 103/a-2/1 K Street Pali Hill",
+        "country":"India",
+        "city":"Mumbi",
+        "phone":"+914237771100"
+    },
+    {
+        "id":6,
+        "name":"Mathew",
+        "address":"H No 101/2/c Meeku Telusa Mansion",
+        "country":"India",
+        "city":"Vishakhapatnam",
+        "phone":"+91834122309"
+    }
+
+    ]
+}
